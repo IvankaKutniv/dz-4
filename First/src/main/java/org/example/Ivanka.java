@@ -1,7 +1,7 @@
 package org.example;
 
 public class Ivanka {
-    private String profession = "QA Engineer";
+    private String profession;
     private int experience;
 
     Ivanka (String profession, int experience) {
